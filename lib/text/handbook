@@ -1,0 +1,39 @@
+This is the immortal handbook.
+
+Doors must have exists that are directly 'opposite' between two rooms.
+Redit crashes system if you create a new room... ask for zone stubs.
+
+Remember: Immortals can lock and unlock any door :)
+
+BUILDER ZONES:
+	limbo                0
+	general items     1 ->  19	Monsters 1 -> 11
+        weapons          20 ->  29
+        armor            30 ->  39
+	STROM 		 40 ->  89
+	GREYFOX		 90 -> 149
+	AFREET		150 -> 199
+        theTICK         200 -> 249
+	Rimmer		250 -> 299
+        Jester          300 -> 349
+Don't muck around (including iedit/redit) other people's Zones!
+Ask permission before linking your zone to a zone owned by someone else.
+
+Weapons: All weapons shall be created by the Implementor Strom.
+Armor: All armor shall be created by the Implementor Strom.
+	This includes all wearables except:
+		Rings
+		Necklace
+		Held Items
+If you need any weapons or armor for your area, ask the Implementor.
+
+
+REMEMBER 'nowiz' so you get wiznet messages.
+RE: gecho...  ALWAYS preface gechos with "*** <your name>:" of some sort.
+
+
+REDIT and IEDIT: DO NOT MAKE NEW ITEMS/ROOMS... I put in the stubs for a
+purpose, and that is because creating a new item can mess up the numbering
+in the save files, which would mess up people's rent.  So, only edit
+existing items.  New rooms are the same... do old ones.
+

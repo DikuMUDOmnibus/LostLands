@@ -1,0 +1,93 @@
+3000	bandedmail(body)
+3001	bandedmail(arm)
+3002	bandedmail(leg)
+
+3003	brigandine(body)
+3004	brigandine(arm)
+3005	brigandine(leg)
+
+3006	bronzeplate(body)
+3007	bronzeplate(arm)
+3008	bronzeplate(leg)
+
+3009	chainmail(body)
+3010	chainmail(arm)
+3011	chainmail(leg)
+
+3012	cordarmor(body)
+3013	cordarmor(arm)
+3014	cordarmor(leg)
+
+3015	fieldplate(body)
+3016	fieldplate(arm)
+3017	fieldplate(leg)
+
+3018	fullplate(body)
+3019	fullplate(arm)
+3020	fullplate(leg)
+
+3021	hidearmor(body)
+3022	hidearmor(arm)
+3023	hidearmor(leg)
+
+3024	improvedmail(body)
+3025	improvedmail(arm)
+3026	improvedmail(leg)
+
+3027	leatherarmor(body)
+3028	leatherarmor(arm)
+3029	leatherarmor(leg)
+
+3030	lightscale(body)
+3031	lightscale(arm)
+3032	lightscale(leg)
+
+3033	lamellar(body)
+3034	lamellar(arm)
+3035	lamellar(leg)
+
+3036	padded(body)
+3037	padded(arm)
+3038	padded(leg)
+
+3039	platemail(body)
+3040	platemail(arm)
+3041	platemail(leg)
+
+3042	ringmail(body)
+3043	ringmail(arm)
+3044	ringmail(leg)
+
+3045	scale(body)
+3046	scale(arm)
+3047	scale(leg)
+
+3048	splint(body)
+3049	splint(arm)
+3050	splint(leg)
+
+3051	studded(body)
+3052	studded(arm)
+3053	studded(leg)
+
+3054	bone(body)
+3055	bone(arm)
+3056	bone(leg)
+
+3057	chain-hauberk(leg)
+3058	lorica hamata(body)
+3060	lorica segmenta(arm)
+3059	lorica hamata(leg)
+
+3060	buckler
+3061	smallshield
+3062	medshield
+3063	largeshield
+3064	towershield
+
+3065	cap
+3066	close-faced helm
+3067	mail coif
+3068	great helm
+3069	leather helm
+3070	open-faced helm

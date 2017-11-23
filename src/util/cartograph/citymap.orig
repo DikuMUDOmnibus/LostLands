@@ -1,0 +1,44 @@
+                  I
+                  |
+                  /
+                  |
+        I   I     C     I    I
+        |   |   I | I   |    |        I      I      I
+        C   C  IC-C-CI  C    C       IC------C------CI
+        |   |   | | |   |    |       ICI    ICI    ICI
+      C-C---C---C-C-C---C----C-C     ICI    ICI    ICI
+      | |   |   | | |   |    | |     IC------C------CI
+      | C   C  IC-C-CI  C    C |     ICI    ICI    ICI
+      | |   |   I | I   |    | |     ICI    ICI    ICI 
+      | I   I     |     I    I |      |      |      |
+      C           C            C------C------C------C
+      |           |            |      |      |      |
+      |         I | I          |     ICI    ICI    ICI
+      | I   I---C-C-C---I    I |     ICI    ICI    ICI
+      | |   |   | | |   |    | |     IC------C------CI
+      C-C---C---C-C-C---C----C-C     ICI    ICI    ICI
+        |   |   | | |   |    |       ICI    ICI    ICI
+        I   I  IC-C-CI  I    C       IC------C------CI
+                I | I        |        I      I      I
+                  \          |
+                  |          C
+                  I          |
+                             C
+                             |
+                             |
+              I-----\----I   C   I-----/----I
+              |          /   |   /          |
+              |          I-I-I-I-I          |
+              |    I I I |   |   | I I I    |
+              C   II-I-I-I-I-I-I-I-I-I-II   C
+              |    I I I |   |   | I I I    |
+              |          I-I-I-I-I          |
+              |          \   |   \          |
+              I-----\----I---+---I-----/----I
+              |              I              |
+              |              I              |
+              \          I   \   I          \
+              |         II-I-I-I-II         |
+              |          I   |   I          |
+              |              \              |
+              C--------------C--------------C

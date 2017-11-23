@@ -1,0 +1,200 @@
+#0
+The Void~
+   You don't think that you are not floating in nothing.  You can see
+a strange portal located above you.
+~
+0 8 1
+D5
+~
+~
+0 0 4000
+S
+#1
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 24 1
+S
+#3
+A Totally Empty Room~
+   The walls are completely bare...no nothing at all in the room.
+How... weird.
+~
+0 520 0
+D4
+You do not see that here.
+~
+~
+0 -1 3048
+S
+#10
+The Meeting Room Of The Gods~
+   The meeting room is plain and very simple.  A circular table sits
+in the middle of the room, lit by some unseen light source.  There
+are many chairs around the table, all empty.  The Immortal Board Room
+is to the north.
+~
+0 33288 0
+D0
+The Immortal Board Room can be seen to the north.
+~
+~
+0 -1 14
+S
+#11
+The Inn Of The Gods~
+   The Inn of the Gods is a small room, holding only a shelf with many
+small precious stones on it.  When God comes to rent his belongings,
+his essence is stored in the stones.  The Immortal Board Room is to
+the south.
+~
+0 33304 0
+D2
+The Immortal Board Room can be seen to the south.
+~
+~
+0 -1 14
+S
+#12
+The Ice Box Of The Gods~
+   The Ice Box is for little boys and girls that cannot play nice. Be good
+and maybe someone will come and get you.
+~
+0 184 0
+S
+#13
+The Gods' Mortal Board Room~
+   Here the Gods have magically created an exact copy of the mortal board
+room.  Any God can easily post and read messages from the mortal board room
+without being seen by any mortals.  The Immortal Board Room is to the west.
+~
+0 32776 0
+D3
+The Immortal Board Room can be seen to the west.
+~
+~
+0 -1 14
+S
+#14
+The Immortal's Idling Room~
+   The main hang out of the Gods, the Immortal Board Room is the place to
+be.  Gods exchange messages here most every day.  The mortal board room is
+to the east and the meeting room for the gods is to the south.  To the north
+is the Gods' Inn and to the west is a post office for Gods.  There is a large
+staircase leading down to the main temple in the city of Midgaard.  In the
+northeast corner you spot a small staircase leading upwards.
+~
+0 32792 0
+D0
+The Gods' Inn can be seen just to the north.
+~
+~
+0 -1 11
+D1
+The Mortal Board Room can be seen just to the east.
+~
+~
+0 -1 13
+D2
+The Gods' Meeting Room is located to the south.
+~
+~
+0 -1 10
+D3
+The Gods' Post Office is just to the west.
+~
+~
+0 -1 15
+D4
+There is a small stair in the corner leading up to the social room of
+the Gods.
+~
+~
+0 -1 16
+D5
+You see the Lobby of the Tower of Creation.
+~
+~
+0 -1 4001
+S
+#15
+The Post Office Of The Gods~
+   The Post Office Of The Gods is the same as most Post Offices except that
+it is not as slow.  Even the Postal service knows not to anger the Gods.
+Piles of junk mail line the walls.  I guess even Gods get on mailing lists.
+The Immortal Board Room is to the east.
+~
+0 33288 0
+D1
+The Immortal Board Room is just to the east.
+~
+~
+0 -1 14
+S
+#16
+The Social Gathering Room~
+   This elegantly decorated room has one simple purpose.  To socialize with
+everyone else around in one central location.
+~
+0 32776 0
+D5
+The Immortal Board Room is just down through the floor.  Funny how you
+didn't notice that exit before isn't it?
+~
+~
+0 -1 14
+S
+#69
+Secret Room~
+  This is the secret work lab of Strom.  You see two large computers 
+sitting on one corner.
+  In front of one computer is a full Thrustmaster ThunderSeat set up,
+decked out with the Limited Edition PLCS, the WCSII, a Rudder Control
+system, and of course, the ThunderSeat itself.
+  On the monitor, you spy a large humanoid machine called the Summoner.
+It has the Warden Clan Wolf symbol on the side.
+~
+0 68762 0
+S
+#99
+The Realm Of The Dead~
+   You are standing on an immense, grey stone floor that stretches as far
+as you can see in all directions.  Rough winds plunging from the dark,
+starless sky tear savagely at your fragile body.
+~
+0 66056 0
+D0
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+D1
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+D2
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+D3
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+S
+$~

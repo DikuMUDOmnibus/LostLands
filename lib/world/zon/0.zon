@@ -1,0 +1,13 @@
+#0 Anon 0 31
+Limbo - Internal & God Rooms~
+99 30 0
+*** Zone 0 was created using Strom's zedit ***
+M 0 1 1 1          Load Puff to Limbo (R 1)
+M 0 31 1 15        Load the Immortal Postmas to The Post Office Of T (R 15)
+M 0 30 1 11        Load the Immortal Innkeep to The Inn Of The Gods (R 11)
+M 0 32 2 11        Load the wandering spirit to The Inn Of The Gods (R 11)
+M 0 32 3 10        Load the wandering spirit to The Meeting Room Of  (R 10)
+M 0 99 1 99        Load Death to The Realm Of The Dea (R 99)
+E 1 99 1 16        Equip Death with Death's Scythe
+S   *Zone 0 has been completed*
+$~

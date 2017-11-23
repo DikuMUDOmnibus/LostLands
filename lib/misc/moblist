@@ -1,0 +1,1082 @@
+1   100  ankheg
+1   101  baatezu
+1   102  baatezu
+1   103  baatezu
+1   104  baatezu
+1   105  banshee
+1   106  basilisk
+1   107  basilisk
+1   108  basilisk
+1   109  bat
+1   110  bat
+1   111  bat
+1   112  bat
+1   113  bat
+1   114  bat
+1   115  bear
+1   116  bear
+1   117  bear
+1   118  bear
+   119  beetle
+   120  beetle
+   121  beetle
+   122  beetle
+   123  beetle
+   124  beetle
+   125  behir
+   126  beholder
+   127  beholder
+   128  beholder
+   129  beholder
+   130  beholder
+   131  beholder
+   132  beholder
+   133  beholder
+   134  beholder
+   135  beholder
+   136  beholder
+   137  beholder
+   138  bird
+   139  bird
+   140  bird
+   141  bird
+   142  bird
+   143  bird
+   144  bird
+   145  bird
+   146  bird
+   147  bird
+   148  bird
+   149  bird
+   150  bird
+   151  bird
+   152  bird
+   153  bird
+   154  bird
+   155  bird
+   156  bird
+   157  bird
+   158  bird
+   159  bird
+   160  bird
+   161  brownie
+   162  bugbear
+   163  bullywug
+   164  carrion crawler
+   165  cat
+   166  cat
+   167  cat
+   168  cat
+   169  cat
+   170  cat
+   171  cat
+   172  cat
+   173  cat
+   174  cat
+   175  cat
+   176  cat
+   177  catblepas
+   178  cave fisher
+   179  centaur
+   180  centipede
+   181  centipede
+   182  centipede
+   183  centipede
+   184  chimera
+   185  chimera
+   186  cloaker
+   187  cockatrice
+   188  cockatrice
+   189  couatl
+   190  crabman
+   191  crocodile
+   192  crocodile
+   193  crab
+   194  crab
+   195  crypt thing
+   196  death knight
+   197  deep spawn
+   198  dinosaur
+   199  dinosaur
+   200  dinosaur
+   201  dinosaur
+   202  dinosaur
+   203  dinosaur
+   204  dinosaur
+   205  dinosaur
+   206  dinosaur
+   207  displacer beast
+1   208  dog
+1   209  dog
+1   210  dog
+1   211  dog
+   212  dog; moon
+   213  dolphin
+   214  doppleganger
+   215  dracolich
+   216  dragon; black
+   217  dragon; black
+   218  dragon; black
+   219  dragon; black
+   220  dragon; blue
+   221  dragon; blue
+   222  dragon; blue
+   223  dragon; blue
+   224  dragon; green
+   225  dragon; green
+   226  dragon; green
+   227  dragon; green
+   228  dragon; red
+   229  dragon; red
+   230  dragon; red
+   231  dragon; red
+   232  dragon; white
+   233  dragon; white
+   234  dragon; white
+   235  dragon; white
+   236  dragon; amethyst
+   237  dragon; amethyst
+   238  dragon; amethyst
+   239  dragon; amethyst
+   240  dragon; crystal
+   241  dragon; crystal
+   242  dragon; crystal
+   243  dragon; crystal
+   244  dragon; emerald
+   245  dragon; emerald
+   246  dragon; emerald
+   247  dragon; emerald
+   248  dragon; sapphire
+   249  dragon; sapphire
+   250  dragon; sapphire
+   251  dragon; sapphire
+   252  dragon; topaz
+   253  dragon; topaz
+   254  dragon; topaz
+   255  dragon; topaz
+   256  dragon; brass
+   257  dragon; brass
+   258  dragon; brass
+   259  dragon; brass
+   260  dragon; bronze
+   261  dragon; bronze
+   262  dragon; bronze
+   263  dragon; bronze
+   264  dragon; copper
+   265  dragon; copper
+   266  dragon; copper
+   267  dragon; copper
+   268  dragon; gold
+   269  dragon; gold
+   270  dragon; gold
+   271  dragon; gold
+   272  dragon; silver
+   273  dragon; silver
+   274  dragon; silver
+   275  dragon; silver
+   276  dragon; brown
+   277  dragon; brown
+   278  dragon; brown
+   279  dragon; brown
+   280  dragon; cloud
+   281  dragon; cloud
+   282  dragon; cloud
+   283  dragon; cloud
+   284  dragon; deep
+   285  dragon; deep
+   286  dragon; deep
+   287  dragon; deep
+   288  dragon; mercury
+   289  dragon; mercury
+   290  dragon; mercury
+   291  dragon; mercury
+   292  dragon; mist
+   293  dragon; mist
+   294  dragon; mist
+   295  dragon; mist
+   296  dragon; shadow
+   297  dragon; shadow
+   298  dragon; shadow
+   299  dragon; shadow
+   300  dragon; steel
+   301  dragon; steel
+   302  dragon; steel
+   303  dragon; steel
+   304  dragon; yellow
+   305  dragon; yellow
+   306  dragon; yellow
+   307  dragon; yellow
+   308  dragon; turtle
+   309  dragon; faerie
+   310  dragon; firedrake
+   311  dragon; pseudo
+   312  dragonne
+   313  dryad
+   314  dwarf
+   315  dwarf
+   316  dwarf
+   317  dwarf
+   318  dwarf
+   319  dwarf
+   320  dwarf
+   321  dwarf
+   322  dwarf
+   323  dwarf
+   324  dwarf
+   325  dwarf
+   326  dwarf
+   327  dwarf
+   328  dwarf
+   329  dwarf
+   330  dwarf
+   331  dwarf
+   332  dwarf
+   333  dwarf
+   334  duergar
+   335  duergar
+   336  duergar
+   337  duergar
+   338  elemental
+   339  elemental
+   340  elemental
+   341  elemental
+   342  elemental
+   343  elemental
+   344  elemental
+   345  elemental
+   346  elemental
+   347  elemental
+   348  elemental
+   349  elemental
+   350  elemental
+   351  elemental
+   352  elemental
+   353  elemental
+   354  elemental
+   355  elemental
+   356  elemental
+   357  elemental
+   358  elemental
+   359  elemental
+   360  elemental
+   361  elemental
+   362  elemental
+   363  elemental
+   364  elemental
+   365  elemental
+   366  elemental
+   367  elemental
+   368  elemental
+   369  elemental
+   370  elemental
+   371  elemental
+   372  elemental
+   373  elemental
+   374  elemental
+   375  elemental
+   376  elemental
+   377  elemental
+   378  elemental
+   379  elemental
+   380  elephant
+   381  elephant
+   382  elephant
+   383  elephant
+   384  elf
+   385  elf
+   386  elf
+   387  elf
+   388  elf
+   389  elf
+   390  elf
+   391  elf
+   392  elf
+   393  elf
+   394  elf
+   395  elf
+   396  elf
+   397  elf
+   398  elf
+   399  elf
+   400  elf
+   401  elf
+   402  elf
+   403  elf
+   404  elf
+   405  drow
+   406  drow
+   407  drow
+   408  drow
+   409  drow
+   410  drow
+   411  drow
+   412  drow
+   413  drow
+   414  drow
+   415  drow
+   416  drow
+   417  drow
+   418  drow
+   419  drow
+   420  drow
+   421  drow
+   422  drow
+   423  drow
+   424  drow
+   425  ettercap
+   426  feyr
+   427  feyr
+   428  fish
+   429  fish
+   430  fish
+   431  fish
+   432  fish
+   433  fish
+   434  fish
+   435  fish
+   436  fish
+   437  fish
+   438  fish
+   439  fish
+   440  fish
+   441  fish
+   442  fish
+   443  fish
+   444  fish
+   445  fish
+   446  fish
+   447  fish
+   448  fish
+   449  fish
+   450  fish
+   451  fish
+   452  fish
+   453  fish
+   454  fish
+   455  fish
+   456  fish
+   457  fish
+   458  fish
+   459  fish
+   460  fish
+   461  fish
+   462  fish
+   463  fish
+   464  fish
+   465  fish
+   466  fish
+   467  fish
+   468  frog
+   469  frog
+   470  frog
+   471  fungus
+   472  fungus
+   473  fungus
+   474  fungus
+   475  fungus
+   476  galeb duhr
+   477  gargantua
+   478  gargantua
+   479  gargantua
+   480  gargoyle
+   481  gargoyle
+   482  gargoyle
+   483  gargoyle
+   484  genie
+   485  genie
+   486  genie
+   487  genie
+   488  genie
+   489  ghost
+   490  ghoul
+   491  ghoul
+   492  ghoul
+   493  giant
+   494  giant
+   495  giant
+   496  giant
+   497  giant
+   498  giant
+   499  giant
+   500  giant
+   501  giant
+   502  giant
+   503  giant
+   504  giant
+   505  giant
+   506  giant
+   507  giant
+   508  giant
+   509  giant
+   510  giant
+   511  gibberling
+   512  giff
+   513  gith
+   514  gith
+   515  gith
+   516  gith
+   517  gith
+   518  gith
+   519  gith
+   520  gith
+   521  gith
+   522  gith
+   523  gloomwing
+   524  gloomwing
+   525  gnoll
+   526  gnoll
+   527  gnoll
+   528  gnoll
+   529  gnoll
+   530  gnoll
+   531  gnoll
+   532  gnoll
+   533  gnome
+   534  gnome
+   535  gnome
+   536  gnome
+   537  gnome
+   538  gnome
+   539  gnome
+   540  gnome
+   541  gnome
+   542  gnome
+   543  gnome
+   544  gnome
+   545  gnome
+   546  gnome
+   547  gnome
+   548  gnome
+   549  gnome
+   550  gnome
+   551  gnome
+   552  gnome
+   553  goblin
+   554  goblin
+   555  goblin
+   556  goblin
+   557  golem
+   558  golem
+   559  golem
+   560  golem
+   561  golem
+   562  golem
+   563  golem
+   564  golem
+   565  golem
+   566  golem
+   567  golem
+   568  golem
+   569  golem
+   570  golem
+   571  gorgon
+   572  grell
+   573  grell
+   574  gremlin
+   575  gremlin
+   576  gremlin
+   577  gremlin
+   578  gremlin
+   579  griffon
+   580  grimlock
+   581  hag
+   582  hag
+   583  halfling
+   584  halfling
+   585  halfling
+   586  halfling
+   587  halfling
+   588  halfling
+   589  halfling
+   590  halfling
+   591  halfling
+   592  halfling
+   593  halfling
+   594  halfling
+   595  halfling
+   596  halfling
+   597  halfling
+   598  halfling
+   599  halfling
+   600  halfling
+   601  halfling
+   602  halfling
+   603  harpy
+   604  hatori
+   605  hatori
+   606  haunt
+   607  hellhound
+   608  hellhound
+   609  hellhound
+   610  hellhound
+   611  heucuva
+   612  hippocampus
+   613  hippogriff
+   614  hobgoblin
+   615  hommuculous
+   616  hooked horror
+   617  horses
+   618  horses
+   619  horses
+   620  horses
+   621  horses
+   622  horses
+   623  horses
+   624  horses
+   625  human
+   626  human
+   627  human
+   628  human
+   629  human
+   630  human
+   631  human
+   632  human
+   633  human
+   634  human
+   635  human
+   636  human
+   637  human
+   638  human
+   639  human
+   640  human
+   641  human
+   642  human
+   643  human
+   644  human
+   645  human
+   646  human
+   647  human
+   648  human
+   649  human
+   650  human
+   651  human
+   652  human
+   653  human
+   654  human
+   655  human
+   656  human
+   657  human
+   658  human
+   659  human
+   660  human
+   661  human
+   662  human
+   663  human
+   664  human
+   665  hydra
+   666  hydra
+   667  hydra
+   668  hydra
+   669  imp
+   670  imp
+   671  imp
+   672  imp
+   673  imp
+   674  imp
+   675  imp
+   676  imp
+   677  insect
+   678  insect
+   679  insect
+   680  insect
+   681  insect
+   682  insect
+   683  sect
+   684  insect
+   685  insect
+   686  insect
+   687  insect swarm
+   688  insect swarm
+   689  insect swarm
+   690  insect swarm
+   691  invisible stalker
+   692  ixitxachitl
+   693  jackalwere
+   694  kenku
+   695  kenku
+   696  kenku
+   697  kenku
+   698  ki-rin
+   699  kirre
+   700  kobold
+   701  kobold
+   702  kobold
+   703  kobold
+   704  kuo-toa
+   705  kuo-toa
+   706  kuo-toa
+   707  kuo-toa
+   708  kuo-toa
+   709  kuo-toa
+   710  lamia
+   711  lamia
+   712  lamia
+   713  lamia
+   714  lammasu
+   715  lammasu
+   716  lammasu
+   717  lammasu
+   718  leech
+   719  leech
+   720  leech
+   721  leprechaun
+   722  leucrotta
+   723  lich
+   724  lich
+   725  living wall
+   726  lizard
+   727  lizard
+   728  lizard
+   729  lizard
+   730  lizardman
+   731  lizardman
+   732  lizardman
+   733  lizardman
+   734  lizardman
+   735  lizardman
+   736  lizardman
+   737  lizardman
+   738  locathah
+   739  lurker
+   740  lurker
+   741  lurker
+   742  lycanthrope
+   743  lycanthrope
+   744  lycanthrope
+   745  lycanthrope
+   746  lycanthrope
+   747  lycanthrope
+   748  lycanthrope
+   749  lycanthrope
+   750  lycanthrope
+   751  lycanthrope
+   752  lycanthrope
+   753  lycanthrope
+   754  lycanthrope
+   755  lycanthrope
+   756  lycanthrope
+   757  lycanthrope
+   758  lycanthrope
+   759  lycanthrope
+   760  lycanthrope
+   761  lycanthrope
+   762  mammal
+   763  mammal
+   764  mammal
+   765  mammal
+   766  mammal
+   767  mammal
+   768  mammal
+   769  mammal
+   770  mammal
+   771  mammal
+   772  mammal
+   773  mammal
+   774  mammal
+   775  mammal
+   776  mammal
+   777  mammal
+   778  mammal
+   779  mammal
+   780  mammal
+   781  mammal
+   782  mammal
+   783  mammal
+   784  mammal
+   785  mammal
+   786  mammal
+   787  mammal
+   788  mammal
+   789  mammal
+   790  mammal
+   791  mammal
+   792  mammal
+   793  mammal
+   794  mammal
+   795  mammal
+   796  mammal
+   797  mammal
+   798  mammal
+   799  mammal
+   800  mammal
+   801  mammal
+   802  mammal; herd
+   803  mammal; herd
+   804  mammal; herd
+   805  mammal; herd
+   806  mammal; herd
+   807  mammal; small
+   808  mammal; small
+   809  mammal; small
+   810  mammal; small
+   811  mammal; small
+   812  mammal; small
+   813  mammal; small
+   814  mammal; small
+   815  mammal; small
+   816  mammal; small
+   817  mammal; small
+   818  mammal; small
+   819  mammal; small
+   820  mammal; small
+   821  mammal; small
+   822  mammal; small
+   823  mammal; small
+   824  mammal; small
+   825  mammal; small
+   826  mammal; small
+   827  mammal; small
+   828  mammal; small
+   829  mammal; small
+   830  mammal; small
+   831  mammal; small
+   832  mammal; small
+   833  mammal; small
+   834  mammal; small
+   835  mammal; small
+   836  mammal; small
+   837  manscorpion
+   838  manscorpion
+   839  manscorpion
+   840  manscorpion
+   841  manscorpion
+   842  manscorpion
+   843  manscorpion
+   844  manscorpion
+   845  manticore
+   846  medusa
+   847  medusa
+   848  medusa
+   849  medusa
+   850  merman
+   851  merman
+   852  merman
+   853  merman
+   854  merman
+   855  merman
+   856  merman
+   857  mimic
+   858  mimic
+   859  minotaur
+   860  minotaur
+   861  minotaur
+   862  minotaur
+   863  mist; crimson death
+   864  mist; vampiric
+   865  mold
+   866  mold
+   867  mold
+   868  mold
+   869  moldman
+   870  moldman
+   871  moldman
+   872  moldman
+   873  moldman
+   874  moldman
+   875  moldman
+   876  moldman
+   877  muckdweller
+   878  mudman
+   879  mummy
+   880  mummy
+   881  mummy
+   882  mummy
+   883  mummy
+   884  mummy
+   885  mummy
+   886  mummy
+   887  mummy
+   888  mummy
+   889  myconid
+   890  myconid
+   891  myconid
+   892  myconid
+   893  myconid
+   894  myconid
+   895  myconid
+   896  naga
+   897  naga
+   898  naga
+   899  naga
+   900  neogi
+   901  neogi
+   902  nitemare
+   903  nymph
+   904  octopus
+   905  ogre
+   906  ogre
+   907  ogre
+   908  ogre
+   909  ogre
+   910  ogre
+   911  ogre
+   912  ogre
+   913  ogre
+   914  ogre
+   915  ogre
+   916  ogre
+   917  ogre
+   918  ogre
+   919  ogre
+   920  ogre
+   921  ogre
+   922  ogre
+   923  ogre
+   924  ogre
+   925  ooze
+   926  ooze
+   927  ooze
+   928  jelly
+   929  jelly
+   930  jelly
+   931  jelly
+   932  jelly
+   933  jelly
+   934  orc
+   935  orc
+   936  orc
+   937  orc
+   938  otyugh
+   939  otyugh
+   940  owlbear
+   941  pegasus
+   942  peryton
+   943  phantom
+   944  phoenix
+   945  plant
+   946  plant
+   947  plant
+   948  plant
+   949  plant
+   950  plant
+   951  plant
+   952  plant
+   953  plant
+   954  plant
+   955  poltergist
+   956  pudding
+   957  pudding
+   958  pudding
+   959  pudding
+   960  quaggoth
+   961  quaggoth
+   962  quaggoth
+   963  rakshasa
+   964  rakshasa
+   965  rakshasa
+   966  rakshasa
+   967  rakshasa
+   968  rakshasa
+   969  rakshasa
+   970  rakshasa
+   971  rakshasa
+   972  rakshasa
+   973  rat
+   974  rat
+   975  revenant
+   976  roc
+   977  roper
+   978  roper
+   979  roper
+   980  roper
+   981  rust monster
+   982  sahuagin
+   983  sahuagin
+   984  sahuagin
+   985  sahuagin
+   986  sahuagin
+   987  sahuagin
+   988  sahuagin
+   989  sahuagin
+   990  sahuagin
+   991  sahuagin
+   992  satyr
+   993  satyr
+   994  scorpion
+   995  scorpion
+   996  scorpion
+   997  sealion
+   998  selkie
+   999  shadow
+  1000  shedu
+  1001  shedu
+  1002  sirine
+  1003  sirine
+  1004  sirine
+  1005  sirine
+  1006  sirine
+  1007  skeleton
+  1008  skeleton
+  1009  skeleton
+  1010  skeleton
+  1011  skeleton
+  1012  skeleton
+  1013  skeleton; giant
+  1014  skeleton; warrior
+  1015  slaad
+  1016  slaad
+  1017  slug
+  1018  snake
+  1019  snake
+  1020  snake
+  1021  snake
+  1022  snake
+  1023  snake
+  1024  snake
+  1025  snake
+  1026  snake
+  1027  snake
+  1028  snake; winged
+  1029  spectre
+  1030  sphinx
+  1031  sphinx
+  1032  sphinx
+  1033  sphinx
+  1034  spider
+  1035  spider
+  1036  spider
+  1037  spider
+  1038  spider
+  1039  spider
+  1040  spider
+  1041  sprite
+  1042  sprite
+  1043  sprite
+  1044  sprite
+  1045  sprite
+  1046  sprite
+  1047  squid
+  1048  squid
+  1049  stirge
+  1050  su-monster
+  1051  swanmay
+  1052  swanmay
+  1053  swanmay
+  1054  swanmay
+  1055  tabaxi
+  1056  tabaxi
+  1057  tabaxi
+  1058  tabaxi
+  1059  tako
+  1060  tako
+  1061  tanar'ri
+  1062  tanar'ri
+  1063  tarrasque
+  1064  tasloi
+  1065  tasloi
+  1066  tasloi
+  1067  thri-kreen
+  1068  thri-kreen
+  1069  thri-kreen
+  1070  thri-kreen
+  1071  thri-kreen
+  1072  thri-kreen
+  1073  thri-kreen
+  1074  thri-kreen
+  1075  thri-kreen
+  1076  thri-kreen
+  1077  titan
+  1078  titan
+  1079  titan
+  1080  titan
+  1081  titan
+  1082  titan
+  1083  titan
+  1084  titan
+  1085  titan
+  1086  titan
+  1087  toad
+  1088  toad
+  1089  toad
+  1090  toad
+  1091  treant
+  1092  treant
+  1093  treant
+  1094  treant
+  1095  treant
+  1096  triton
+  1097  triton
+  1098  triton
+  1099  triton
+  1100  triton
+  1101  troglodyte
+  1102  troglodyte
+  1103  troglodyte
+  1104  troglodyte
+  1105  troglodyte
+  1106  troll
+  1107  troll
+  1108  troll
+  1109  troll
+  1110  troll
+  1111  troll
+  1112  troll
+  1113  troll
+  1114  troll
+  1115  troll
+  1116  troll
+  1117  troll
+  1118  troll
+  1119  troll
+  1120  troll
+  1121  troll
+  1122  troll
+  1123  troll
+  1124  troll
+  1125  troll
+  1126  umber hulk
+  1127  umber hulk
+  1128  unicorn
+  1129  urchin
+  1130  urchin
+  1131  urchin
+  1132  urchin
+  1133  urchin
+  1134  urchin
+  1135  vampire
+  1136  vampire
+  1137  vampire
+  1138  vampire
+  1139  wemic
+  1140  wemic
+  1141  wemic
+  1142  wemic
+  1143  wemic
+  1144  whale
+  1145  whale
+  1146  whale
+  1147  whale
+  1148  whale
+  1149  wight
+  1150  will o' wisp
+  1151  wolf
+  1152  wolf
+  1153  wolf
+  1154  wolf
+  1155  wolf
+  1156  worm
+  1157  worm
+  1158  worm
+  1159  worm
+  1160  worm
+  1161  wraith
+  1162  wyvern
+  1163  xorn
+  1164  xorn
+  1165  yuanti
+  1166  yuanti
+  1167  yuanti
+  1168  yuanti
+  1169  yuanti
+  1170  yuanti
+  1171  yugoloth
+  1172  yugoloth
+  1173  yugoloth
+  1174  yugoloth
+  1175  zaratan
+  1176  zombie
+  1177  zombie
+  1178  zombie
+  1179  zombie
+  1180  zombie
+

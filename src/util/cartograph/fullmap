@@ -1,0 +1,86 @@
+  I  (tower<--->newbie school)
+  /                 
+  I                 C   
+                    |
+  C------C-----C----C-----C-----C----C
+  |            II   |                |
+  |           III   |                |
+  C                ICI               C
+  |  III            |                |
+  |  III            |  III III III   |
+  C  III           ICI III III III   C
+  |    | I I I I I  |  III III III   |
+C-C-C--C-C-C-C-C-C--C---C---C---C----C-C
+  |    I I I I I I  |   II III III   |
+  |                 |   II III III   |
+  |  ICI-II        ICI     III III   |
+  C   |  II         |                C
+  |  ICI        I I | I I            |
+  |   |        IC-C-C-C-CI        III|
+  C  ICI        | | | | |          IIC
+  |   |        IC-C-C-C-CI           |
+  |   |   I  I  | | | | |  I   I  I  |
+  C---C---C--C--C-C-I-C-C--C---C--C--C
+  |       I--I  | | | | |  I   I  I  |
+  |       I--I IC-C-C-C-CI           |
+  C       I--I  | | | | |            C
+  |            IC-C-C-C-CI           |
+  |             I I | I I            |
+  C-II              |     III----I   C
+  | III            ICI    III----I   |
+  |         I       |   I III----I   |
+  C IIII    I      IC---C---C----C---C
+  | IIII    III     |  II  III  III  |
+  | IIII I  III--I  |  ||  III  III  |
+  C IIII-C---C---C--CI-II  III  III  C
+  | IIII I   I   I  |      III  III  | 
+  | IIII           ICI               |
+  | IIII            |      III       |
+  | IIII            |      II        |
+  C-----C-----C-----C------C-----C---C
+                    |
+                    C
+                    ^
+                    |   Capitol<->SouthPort
+                    \------\
+			   |
+                           V
+                           F
+                           |
+                         F-F-F-F-F-F-F-F-F
+                         F-F-F-F-F-F-F-F-F
+                         F-F-F-F-F-F-F-F-F
+                         F-F-F-F-F-F-F-F-F
+                         F-F-F-F-F-F-F-F-F
+                         F-F-F-F-F-F-F-F-F
+                         F-F-F-F-F-F-F-F-F     B-B-B-B-B-B-B-B-B (4395 -> 4402)
+                               | | |   |       B-B-B-B-B-B-B-B-B (4403 -> 4411)
+                               F-F-F-F-F-F-F-F-B-B-B-B-B-B-B-B-B (4420 -> 4428)
+                               | |     |       | | | | | | | | |
+                               F-F I-C-C-C-I F-B-B-B-B-B-B-B-B-B<---->archepel/ocean 
+                               | |   | | |   | | | | | | | | | |       4445
+                               F-F I-C-C-C-I F-B-B-B-B-B-B-B-B-B<---->archepel/ocean
+                               | |   | | |   | | | | | | | | | |       4462
+                               F-F I-C-C-C-C-F-B-B-B-B-B-B-B-B-B<---->archepel/ocean
+                               | |   | | | | | | | | | | | | | |       4479
+                               F-F-C-C-C-C-C-C-C-C-C-B-B-B-B-B-B (4480 -> 4496)
+                               F-F-F-F-F-F-F-F-B-B-B-B-B-B-B-B-B (4497 -> 4513)
+                               F-F-F-F-F-F-F-F-B-B-B-B-B-B-B-B-B (4514 -> 4530)
+                               F-F-F-F-B-B-B-B-B-B-B-B-B-B-B-B-B (4531 -> 4547)
+
+
+(Archepel Ocean == Vnums 5050 -> 5091)
+                     B-B-B-B-B-B	(5050 -> 5055)
+                     | | | | | |           |       |
+                     B-B-B-B-B-B           V       V
+                     | | | | | |        (5086 -> 5091)
+                     B-B-B-B-B-B
+                     | | | | | |
+                     B-B-B-B-B-B
+                     | | | | | |
+archepel/ocean<----->B-B-B-B-B-B
+   5074              | | | | | |
+archepel/ocean<----->B-B-B-B-B-B
+   5080              | | | | | |
+archepel/ocean<----->B-B-B-B-B-B
+   5086

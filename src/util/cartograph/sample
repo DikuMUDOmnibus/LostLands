@@ -1,0 +1,11 @@
+#ROOM Y 6 5					; Roomflags 6, sector 5
+#DOOR ; 1 -1 gate metal				; Gate with no key
+
+
+
+         II
+          I-C
+            |                                      @
+        I   |                 F--;--/-----F--=\----F@
+C-:--C--C---C--C--C--C--F--F--Y                    @
+

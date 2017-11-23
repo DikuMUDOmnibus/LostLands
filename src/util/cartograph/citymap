@@ -1,0 +1,42 @@
+  I
+  /                 
+  I                 C   
+                    |
+  C------C-----C----C-----C-----C----C
+  |            II   |                |
+  |           III   |                |
+  C                ICI               C
+  |  III            |                |
+  |  III            |  III III III   |
+  C  III           ICI III III III   C
+  |    | I I I I I  |  III III III   |
+C-C-C--C-C-C-C-C-C--C---C---C---C----C-C
+  |    I I I I I I  |   II III III   |
+  |                 |   II III III   |
+  |  ICI-II        ICI     III III   |
+  C   |  II         |                C
+  |  ICI        I I | I I            |
+  |   |        IC-C-C-C-CI        III|
+  C  ICI        | | | | |          IIC
+  |   |        IC-C-C-C-CI           |
+  |   |   I  I  | | | | |  I   I  I  |
+  C---C---C--C--C-C-I-C-C--C---C--C--C
+  |       I--I  | | | | |  I   I  I  |
+  |       I--I IC-C-C-C-CI           |
+  C       I--I  | | | | |            C
+  |            IC-C-C-C-CI           |
+  |             I I | I I            |
+  C-II              |     III----I   C
+  | III            ICI    III----I   |
+  |         I       |   I III----I   |
+  C IIII    I      IC---C---C----C---C
+  | IIII    III     |  II  III  III  |
+  | IIII I  III--I  |  ||  III  III  |
+  C IIII-C---C---C--CI-II  III  III  C
+  | IIII I   I   I  |      III  III  | 
+  | IIII           ICI               |
+  | IIII            |      III       |
+  | IIII            |      II        |
+  C-----C-----C-----C------C-----C---C
+                    |
+                    C

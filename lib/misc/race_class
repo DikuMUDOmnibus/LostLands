@@ -1,0 +1,10 @@
+Race:   Thi Bar Fig Sam Cle Dru Mag Wiz M-C M-T M-F MCF MTF CF FT
+Human    1   1   1   1   1   1   1   1   0   0   0   0   0   0  0 
+Elf      1   0   1   0   1   1   1   0   0   1   1   0   1   0  1
+1/2      1   0   1   0   1   1   1   0   1   1   1   1   1   1  1
+Dwarf    1   1   1   0   1   0   0   0   0   0   0   0   0   1  1
+Halfling 1   1   1   0   0   0   1   0   0   0   0   0   0   0  1
+Gnome    1   0   1   0   1   0   1   1   0   1   1   0   0   0  1
+Hemnov   0   0   1   1   1   1   1   1   1   0   0   1   0   0  0
+
+CODE     T   B   F   S   C   D   M   W   1   2   3   4   5   6  7

@@ -1,0 +1,362 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.  Please
+report it immediately using the BUG command.~
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+#1
+wings~
+a pair of wings~
+A pair of wings is sitting here.~
+~
+9 0 0 ap
+6 0 0 0
+0 0 200
+#3
+H h~
+an H~
+A small H about 3 inches tall~
+~
+9 xCD a aq
+0 0 0 14
+1 10 1
+F
+dfhrt abdf 0
+#10
+waybread bread~
+a waybread~
+Some waybread has been put here.~
+~
+19 g 0 a
+24 0 0 0
+1 50 50
+E
+waybread bread~
+The waybread is the traditional feed of elves when travelling, they
+call it lembas.  It is said to refresh the weary traveler greatly.
+~
+#39
+bug~
+undeniable excellence~
+This is a Bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#40
+slap~
+a forceful blow~
+This is a bug... please report.~
+~
+0 0 0 0
+0 0 0 0
+0 0 0
+#41
+bug~
+needle-like sharpness~
+This is a bug.... Please Report~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#42
+bug~
+a painful flogging~
+This is a bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#43
+bug~
+blade-like efficiency~
+This is a bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#44
+bug~
+fangs from hell~
+This is a bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#45
+bug~
+a force to be reckoned with~
+This is a bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#46
+bug~
+bone-crushing efficiency~
+This is a Bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#47
+bug~
+ten gigajoules of power~
+This is a Bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#48
+bug~
+an effort worthy of Freddy Krugar~
+This is a Bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#49
+bug~
+the speed of an avalanche~
+This is a Bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#50
+bug~
+the strength of a thousand bulls~
+This is a Bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#51
+bug~
+a very sharp point~
+This is a Bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#52
+bug~
+explosive fury~
+This is a Bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#54
+bug~
+a quick lunge~
+This is a Bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#55
+bug~
+extremely fine marksmanship~
+This is a Bug.  Please Report.~
+~
+13 0 0 a
+0 0 0 0
+0 0 0
+#56
+bug~
+mesmerizing grace~
+This is a Bug.  Please Report.~
+~
+0 0 0 a
+0 0 0 0
+0 0 0
+#60
+god armor~
+the God Armor~
+The God Armor floats softly on the ground.~
+~
+9 abgiE 0 ad
+10 0 0 0
+400 0 1000000
+E
+god armor~
+The God Armor shines with a holy light.
+~
+#61
+god ring~
+the One Ring~
+The One Ring hums with insane bliss.~
+~
+9 abgiE 0 ab
+10 0 0 0
+1 0 0
+F
+b d a
+#62
+halo~
+Holy Halo~
+A ring of heavenly light rests softly on the ground.~
+~
+9 abgiE 0 ae
+10 0 0 0
+5 0 0
+F
+cdef c 0
+#63
+ring truth~
+the True Ring~
+The True Ring hums with insane bliss.~
+~
+9 abgiq 0 ab
+10 0 0 0
+0 0 0
+#64
+necklace medallion honor~
+the Medallion of Honor~
+A small medallion shines.~
+~
+9 abgiE 0 ac
+10 0 0 0
+5 0 0
+#65
+heaven light~
+the Heaven's Light~
+The Heaven's Light shines bright.~
+~
+5 abgiDE ad anp
+1 10 10 3
+300 0 0
+F
+b 0 0
+#66
+god armor~
+the God Armor~
+The God Armor floats softly on the ground.~
+~
+9 abgiE 0 af
+10 0 0 0
+400 0 0
+#67
+god armor~
+the God Armor~
+The God Armor floats softly on the ground.~
+~
+9 abgiq 0 ag
+20 0 0 0
+400 0 0
+#68
+god armor~
+the God Armor~
+The God Armor floats softly on the ground.~
+~
+9 abgiE 0 ah
+10 0 0 0
+400 0 0
+#69
+god armor~
+the God Armor~
+The God Armor floats softly on the ground.~
+~
+9 abgiE 0 ai
+10 0 0 0
+400 0 0
+#70
+god shield~
+the God Shield~
+The God Shield floats softly on the ground.~
+~
+9 abgiE 0 aj
+10 0 0 0
+400 0 0
+#72
+god bow~
+God's Bow~
+Gods bow~
+~
+6 ab d an
+1 1 4 1
+400 0 0
+#73
+god arrow~
+God's Arrows~
+An unfinished object is lying here.~
+~
+7 ab a ano
+10 5 8 1
+200 0 0
+#80
+backpack~
+a backpack~
+An unused backpack~
+~
+15 0 0 aop
+200 1 -1 0
+10 0 0
+#81
+rock~
+a rock~
+A rock~
+~
+7 0 0 ao
+0 0 0 0
+5 0 0
+#82
+Soul Crusher~
+the soul crusher~
+A humming piece of your life force lies here.~
+~
+5 abgty 0 anp
+20 6 20 3
+0 0 0
+#84
+sword~
+sword~
+Sword~
+Sword~
+5 aegiE ade anp
+2 10 10 10
+0 0 0
+F
+hm 0 0
+#85
+mask~
+rictus mask~
+You see a death mask~
+~
+11 bE e aq
+0 0 0 0
+0 0 0
+F
+nr ad 0
+#86
+shoes~
+shoes~
+Shoes~
+~
+9 0 0 ag
+0 0 0 0
+0 0 0
+#90
+bread~
+bread~
+A piece of bread is here.~
+~
+19 0 0 a
+8 0 0 0
+0 10 0
+#99
+scythe~
+Death's Scythe~
+The Scythe of Death lies here.~
+~
+5 cdjkmno 0 an
+0 15 15 5
+40 0 50000
+E
+scyth~
+this got broken~
+$~

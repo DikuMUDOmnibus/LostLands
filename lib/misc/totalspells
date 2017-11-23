@@ -1,0 +1,143 @@
+Mage Spells:	lv 2: 6th, lv 3: 10th, lv 4: 15th, lv 5: 20th, lv 6: 24th, lv 7: 28th
+Lv1
+Armor		(conj)
+Burning Hands	(alt)
+Charm Person	(enc)
+Chil Touch	(nec)
+color spray	(alt)
+compreh Lang	(alt)
+detect mag	(dvi)
+detect undead	(necr/div)
+identify	(div)
+magic missile	(evo)
+prot from evil  (abj)
+shield		(evo)
+shocking grasp	(alt)
+sleep		(enc)
+
+lv2
+blind		(ill)
+detect evil	(div)
+detect invis	(div)
+invis		(ill)
+knock		(alt)
+know align	(div)
+levitate	(alt)
+locate object	(div)
+mirror image	(ill)
+acid arrow	(conj)
+ray of enfeeb	(enc)
+stinking cloud? (evo)
+strength	(alt)
+
+lv3
+blink?		(alt)
+dispelmag?	(abj)
+fireball	(evo)
+flame arrow?	(conj)
+fly		(alt)
+haste?		(alt)
+holdperson?	(enc)
+holdundead?	(necr)
+infravision	(alt)
+group invis	(ill)
+lightning bolt	(evo)
+minute meteor	(evo)
+monsumm(?) I	(conj)
+group prot evil (abj)
+water breath	(alt)
+wraithform?	(alt)
+
+lv 4
+dimdoor(?)	(alt)
+enchant weapon  (enc)
+energy drain	(necr)
+fear		(ill)
+ice storm	(evo)
+improved invis  (ill)
+monsum II (?)	(conj)
+remove curse	(abj)
+stoneskin	(alt)
+
+Mage Spells:	lv 2: 6th, lv 3: 10th, lv 4: 15th, lv 5: 20th, lv 6: 24th, lv 7: 28th
+lv 5
+animate dead	(necro)
+group breath	(alt)
+cone of cold	(evo)
+conj elemental  (conj)
+hold monster	(ench)
+monsum III	(conj)
+teleport(toplace) (alt)
+
+lv 6
+chain lighting  (evo)
+monsum IV	(conj)
+
+lv 7
+charm undead	(necro)
+db fireball	(alt)
+monsum 5	(conj)
+clone		(ill)
+
+
+Cleric		lv2: 6, lv3:10, lv4:14, lv5:18, lv6:22, lv7:28
+lv 1
+bless		(all)
+create water	(elem)
+cure light	(heal)
+detect evil	(all)
+detect magic	(div)
+detect poison	(div)
+faerie fire	(alt)
+prot from evil	(prot)
+sanct		(prot)
+remove fear	(charm)
+
+lv 2
+aid		(necr)
+barkskin	(prot)
+charm person	(charm)
+flame blade	(elem)
+hold person	(charm)
+know align	(div)
+
+lv 3
+animate dead	(necro)
+call light	(alt)
+feast		(creat)
+cure blind	(abj)
+dispel magic	(abj)
+locate obj	(div)
+prayer		(conj)
+prot from fire	(abj)
+remove curse	(abj)
+water breath	(elem)
+water walk	(elem)
+
+lv4
+animal sum I	(anim)
+cure serious	(heal)
+cure poison	(heal)
+prot evil group (abj)
+
+lv 5
+air walk	(elem)
+animal summ II  (anim)
+cure crit	(heal)
+dispel evil	(prot)
+flame strike	(evo)
+planeshift	(astral)
+
+Cleric		lv2: 6, lv3:10, lv4:14, lv5:18, lv6:22, lv7:28
+lv 6
+aerial servant	(summ)
+animal sum III  (animal)
+blade barrier	(evo)
+conj fire elem  (elem)
+find path	(div)
+heal		(heal)
+recall		(summon)
+
+lv 7
+earthquake	(elem)
+fire storm	(elem)

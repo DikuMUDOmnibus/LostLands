@@ -1,0 +1,13 @@
+Strom    (Nov  2) [   11] bugfile is missing
+Rimmer   (Nov 25) [ 4304] deathdance spell works fine, deathdance in an item crashes the mud
+GreyFox  (Dec  4) [ 9075] I cast summon dragon and got a Master Engraver
+GreyFox  (Dec  5) [ 4272] room 4272 leads north to 4258
+GreyFox  (Dec  5) [ 4272] rather, 4258 is empty
+Clarie   (Dec  6) [   11] clarie
+GreyFox  (Dec  9) [   11] Why when I type ControlC does my screen die?
+GreyFox  (Dec  9) [ 4000] I tried logging in with a bad PW while I was already logged on, and when the second window quit, I was kicked off the good one, too
+GreyFox  (Dec  9) [ 4103] I was in 4103, killed a guard, and purged.  The mud crashed
+Strom    (Dec 14) [   11] redit and iedit crashes when saving to file
+Strom    (Dec 15) [   11] fixed redit and iedit
+Jester   (Dec 15) [   11] animate dead causes crashes
+Strom    (Dec 15) [ 5038] animate dead fixed

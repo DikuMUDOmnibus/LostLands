@@ -1,0 +1,82 @@
+The command used to make this from the root directory was:
+tar -czf LostLands.tgz src/Makefile src/*.c src/*.h lib/misc/messages
+	 lib/misc/socials lib/text/help_table lib/text/policies 
+	lib/world/wld/olc.stub.wld lib/world/obj/objstubs.obj 
+	src/README_LOSTLANDS
+
+You are reading src/README_LOSTLANDS
+
+This is the latest release of Strom's LostLands.
+
+Anyway, things you should know.. don't put this on top of 
+existing code... it'll erase what you've done and have only
+stuff I've done.... this may be bad for some people....
+I've included my Makefile.
+
+What LostLands include:  the OLC that was in the ftp site...
+a very basic quest stuff.... addquest and showquest works,
+sorta... multiclass, races, reincarnation, semi-working zedit
+
+You'll notice a function in utils.c called CAN_HIT or something
+like it... this verifies that a player can kill another player
+according to the rules I set down in lib/text/policies....
+
+There's a shit load of changes I've made to stock 30pl8 and I
+hope you like them... I included the darn stub files for objs
+and rooms in here too.... you need to use them to use the redit and
+iedit without causing great disturbances in the force.  When you
+make a new zone, simply copy the stubs over, and rename all QQ's to
+the zone number.    Using redit/iedit, you can only change existing
+rooms and items... adding new items or rooms can cause numeric
+misalignment... I don't care, since I'm building from scratch, so I'm
+not gonna bother fixing it. :)
+
+I've tried to keep everything coded as easily readable as possible
+but I don't make promises....
+
+What you get here includes:
+	attacks per round in a skill determined format, but easily
+		changed to a level determined format
+	attacks per round for mobs...
+	a new format for mobs and objs which I'll document later, but
+		if you look at the stub files, and db.c parse_mob and
+		parse_obj, you should be able to figure it out... it's
+		backwards compatible so it'll read stock circle30pl8
+		stuff.
+	quest bits
+	races (8 or 10 of them)
+	classes (8 or 9 of them)
+	shit loads of spells (I think 85 out of 91 are implemented)
+	multi-class system that I hacked together and should probably
+		be fixed up, but I'm too lazy and I don't really mind
+		the system as it is now because I kinda like it that way.
+	ranged attack.... mobs now HUNT the person who shot them... they're
+		a little slow though. :(
+	mobs that need plus items to damage... items that have pluses...
+	room for expansion....
+	whatelse?  can't remember.... spells, classes, oh, changed the
+		way spec_proc guildguards work as well as practice
+		work.   I think it's doc'ed in the code....  There's a
+		train proc that allows up'ign of ye 'o attributes... up
+		to 25.
+
+IF YOU DON"T UNDERSTAND or want to flame or whatever, e-mail me at:
+	bhchan@csua.berkeley.edu
+
+the sequent's been off and on lately, but it's normally decently
+stable and up...
+
+	Strom's LostLands could be found up and about at:
+		ystwyth.wrs.com 4000
+
+IN ADDITION, samedi's olc stuff are not fully included into the distribution.
+I don't like the non-menu driven system, so I'll end up writing my own menu
+driven Medit.  Zedit is half done at this point.
+
+NOTE: you need extra directories in the lib tree to use aliases and quests.
+    The directory structure is just like plrobjs, but called plralias and
+    plrquest.... ie: you need directories like plralias/A-E and plrquest/ZZZ
+
+Also, fight.c needs items from 39 to 55 to be declared and used as dummy items
+for the damage messages.  I've included the 0.* world files in the latest
+distribution.
